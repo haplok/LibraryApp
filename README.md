@@ -14,13 +14,12 @@
 
 ## Установка
 
-1. Клонируйте репозиторий:
-    ```sh
-    git clone https://github.com/yourusername/library-management.git
-    cd library-management
-    ```
-
-2. Установите необходимые зависимости (если они есть).
+Клонируйте репозиторий:
+    
+```sh
+    git clone https://github.com/haplok/LibraryApp
+    cd LibraryApp
+ ```
 
 ## Использование
 
@@ -34,3 +33,4 @@ python main.py
 ```sh
 python -m unittest test_library.py
 ```
+
